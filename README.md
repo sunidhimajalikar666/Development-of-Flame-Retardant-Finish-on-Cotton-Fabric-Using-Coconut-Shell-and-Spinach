@@ -1,0 +1,2 @@
+# Development-of-Flame-Retardant-Finish-on-Cotton-Fabric-Using-Coconut-Shell-and-Spinach
+Developed an eco-friendly flame-retardant finish for cotton fabric using coconut shell extract and spinach juice. Evaluated flame resistance through LOI and vertical flammability tests, achieving improved performance with the combined CSE+SJ treatment. Focused on sustainable, cost-effective textile finishing. 
